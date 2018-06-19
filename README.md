@@ -10,4 +10,4 @@ This node script sets all your heroku config variables automatically for you rat
 ### Requirements
 * Node (6+)
 * Heroku cli
-* A project connected to heroku
+* A project hosted on heroku

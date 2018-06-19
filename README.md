@@ -12,4 +12,4 @@ This node script sets all your heroku config variables automatically for you rat
 * Heroku cli
 * A project connected to heroku
 
-Project inspired by #[https://github.com/sdkcodes/heroku-config]
+Project inspired by https://github.com/sdkcodes/heroku-config
